@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const GATEWAY = 'http://localhost:5085'
+const GATEWAY = 'https://library-gateway-gshyand3bycmgagk.centralindia-01.azurewebsites.net'
 
 axios.interceptors.request.use(config => {
   const token = localStorage.getItem('token')

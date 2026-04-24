@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746D575F-58EA-43B7-96F3-9E628AE8302A}|..\\GatewayAPI\\GatewayAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\gatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746D575F-58EA-43B7-96F3-9E628AE8302A}|..\\GatewayAPI\\GatewayAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\gatewayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\migrations\\20260423102225_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\libraryapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\LibraryAPI\\Migrations\\20260423093022_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B42F6-704B-4F7D-A527-2481447AC3DC}|..\\AuthAPI\\AuthAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\authapi\\authapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\services\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\services\\ilibrarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\services\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF25837-F796-4AA6-8501-99552FBF758A}|..\\LibraryAPI\\LibraryAPI.csproj|d:\\code\\capstone\\librarymanagementsystem\\libraryapi\\migrations\\20260423093745_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{87654321-4321-4321-4321-987654321cba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\GatewayAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\GatewayAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T04:08:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Program.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Program.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\GatewayAPI\\appsettings.json",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\appsettings.json",
+              "RelativeToolTip": "..\\GatewayAPI\\appsettings.json",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvycAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T04:08:07.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\appsettings.json",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\appsettings.json",
+              "RelativeToolTip": "..\\LibraryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T04:08:07.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\appsettings.json",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "..\\AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T04:08:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Program.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\appsettings.Development.json",
+              "RelativeToolTip": "..\\LibraryAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T04:08:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260423102225_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Migrations\\20260423102225_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\Migrations\\20260423102225_InitialCreate.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\Migrations\\20260423102225_InitialCreate.cs",
+              "RelativeToolTip": "..\\AuthAPI\\Migrations\\20260423102225_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260423093745_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Migrations\\20260423093745_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Migrations\\20260423093745_InitialCreate.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Migrations\\20260423093745_InitialCreate.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Migrations\\20260423093745_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryAPI",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\LibraryAPI.csproj",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeToolTip": "..\\LibraryAPI\\LibraryAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T04:08:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260423093022_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\LibraryAPI\\Migrations\\20260423093022_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\LibraryAPI\\Migrations\\20260423093022_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibraryAPI.csproj",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\LibraryAPI.csproj",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeToolTip": "..\\LibraryAPI\\LibraryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T04:08:07.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\Book.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Services\\BookManager.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\BookManager.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Services\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthAPI.http",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\AuthAPI.http",
+              "RelativeDocumentMoniker": "..\\AuthAPI\\AuthAPI.http",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\AuthAPI\\AuthAPI.http",
+              "RelativeToolTip": "..\\AuthAPI\\AuthAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-24T04:08:07.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\IBookManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Services\\IBookManager.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\IBookManager.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Services\\IBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILibraryManager.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\ILibraryManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Services\\ILibraryManager.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\ILibraryManager.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Services\\ILibraryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Services\\LibraryManager.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Services\\LibraryManager.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Services\\LibraryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Models\\Library.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\Library.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Models\\Library.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "ToolTip": "D:\\Code\\Capstone\\LibraryManagementSystem\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "..\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:08:07.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

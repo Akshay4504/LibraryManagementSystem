@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\LibraryAPI\\LibraryAPI.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\AuthAPI\\AuthAPI.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\GatewayAPI\\GatewayAPI.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

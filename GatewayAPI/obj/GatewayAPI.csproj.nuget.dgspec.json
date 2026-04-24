@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\GatewayAPI\\GatewayAPI.csproj": {}
+    "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\GatewayAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\GatewayAPI\\GatewayAPI.csproj": {
+    "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\GatewayAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\GatewayAPI\\GatewayAPI.csproj",
+        "projectUniqueName": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\GatewayAPI.csproj",
         "projectName": "GatewayAPI",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\GatewayAPI\\GatewayAPI.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagementProject\\GatewayAPI\\obj\\",
+        "projectPath": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\GatewayAPI.csproj",
+        "packagesPath": "C:\\Users\\pdwibedy\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Capstone\\LibraryManagementSystem\\GatewayAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pdwibedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -74,6 +79,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
