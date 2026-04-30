@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\library-frontend\\src",
-    "\\library-frontend\\src\\services",
+    "\\GatewayAPI",
+    "\\LibraryAPI",
+    "\\LibraryAPI\\Models",
     "\\LibraryManagement"
   ],
-  "SelectedNode": "\\LibraryManagement\\LibraryManagement.sln",
+  "SelectedNode": "\\LibraryAPI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

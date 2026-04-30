@@ -9,6 +9,7 @@ namespace LibraryAPI.Models
 
         public DbSet<Library> Libraries { get; set; }
         public DbSet<Book> Books { get; set; }
+        public DbSet<BorrowedBook> BorrowedBooks { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -28,6 +29,11 @@ namespace LibraryAPI.Models
                 .HasOne(b => b.Library)
                 .WithMany(l => l.Books)
                 .HasForeignKey(b => b.LibraryId)
+                .OnDelete(DeleteBehavior.Cascade);
+            modelBuilder.Entity<BorrowedBook>()
+                .HasOne(bb => bb.Book)
+                .WithMany(b => b.BorrowedBooks)
+                .HasForeignKey(bb => bb.BookId)
                 .OnDelete(DeleteBehavior.Cascade);
         }
     }

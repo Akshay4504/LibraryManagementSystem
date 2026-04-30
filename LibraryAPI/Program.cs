@@ -22,6 +22,7 @@ builder.Services.AddDbContext<LibraryDbContext>(options =>
 // Register services
 builder.Services.AddScoped<ILibraryManager, LibraryManager>();
 builder.Services.AddScoped<IBookManager, BookManager>();
+builder.Services.AddScoped<IBorrowManager, BorrowManager>();
 
 // JWT Authentication — validates tokens issued by AuthAPI
 var jwtKey = builder.Configuration["Jwt:Key"]!;
