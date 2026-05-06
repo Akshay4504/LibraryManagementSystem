@@ -179,16 +179,6 @@ library-sql-server-26
 
 ## 🔑 Configuration
 
-### Connection String
-
-```
-"ConnectionStrings": {
-  "DefaultConnection": "Server=tcp:<server>.database.windows.net;Initial Catalog=LibraryDb;..."
-}
-```
-
-IMPORTANT: Ensure Initial Catalog = LibraryDb
-
 ---
 
 ## 🚀 Running the Project
@@ -234,15 +224,6 @@ Console.WriteLine(context.Database.ProviderName);
 
 Expected:
 Microsoft.EntityFrameworkCore.SqlServer
-
----
-
-## ⚠️ Common Issues
-
-- Wrong database target
-- Missing SaveChanges()
-- Azure config override
-- Migration issues
 
 ---
 
