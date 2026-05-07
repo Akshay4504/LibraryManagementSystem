@@ -40,3 +40,4 @@ C:\Users\Administrator\Desktop\LibraryManagementProject\GatewayAPI\obj\Debug\net
 C:\Users\Administrator\Desktop\LibraryManagementProject\GatewayAPI\obj\Debug\net8.0\GatewayAPI.pdb
 C:\Users\Administrator\Desktop\LibraryManagementProject\GatewayAPI\obj\Debug\net8.0\GatewayAPI.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\LibraryManagementProject\GatewayAPI\obj\Debug\net8.0\ref\GatewayAPI.dll
+C:\Users\Administrator\Desktop\LibraryManagementProject\GatewayAPI\obj\Debug\net8.0\GatewayAPI.sourcelink.json

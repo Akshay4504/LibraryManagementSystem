@@ -136,3 +136,4 @@ C:\Users\Administrator\Desktop\LibraryManagementProject\AuthAPI\obj\Debug\net8.0
 C:\Users\Administrator\Desktop\LibraryManagementProject\AuthAPI\obj\Debug\net8.0\AuthAPI.pdb
 C:\Users\Administrator\Desktop\LibraryManagementProject\AuthAPI\obj\Debug\net8.0\AuthAPI.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\LibraryManagementProject\AuthAPI\obj\Debug\net8.0\ref\AuthAPI.dll
+C:\Users\Administrator\Desktop\LibraryManagementProject\AuthAPI\obj\Debug\net8.0\AuthAPI.sourcelink.json

@@ -95,6 +95,58 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "LibraryAPI.Controllers.BorrowController",
+    "Method": "BorrowBook",
+    "RelativePath": "api/Borrow/{bookId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.BorrowController",
+    "Method": "GetAllBorrows",
+    "RelativePath": "api/Borrow/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.BorrowController",
+    "Method": "GetMyBorrows",
+    "RelativePath": "api/Borrow/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryAPI.Controllers.BorrowController",
+    "Method": "ReturnBook",
+    "RelativePath": "api/Borrow/return/{borrowId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "borrowId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "LibraryAPI.Controllers.LibraryController",
     "Method": "GetAll",
     "RelativePath": "api/Library",

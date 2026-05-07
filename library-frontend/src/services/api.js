@@ -43,3 +43,16 @@ export const updateBook = (id, data) =>
 
 export const deleteBook = (id) =>
   axios.delete(`${GATEWAY}/gateway/library/api/book/${id}`)
+
+// Borrow
+export const borrowBook = (bookId) =>
+  axios.post(`${GATEWAY}/gateway/library/api/borrow/${bookId}`)
+
+export const returnBook = (borrowId) =>
+  axios.post(`${GATEWAY}/gateway/library/api/borrow/return/${borrowId}`)
+
+export const getMyBorrows = () =>
+  axios.get(`${GATEWAY}/gateway/library/api/borrow/my`)
+
+export const getAllBorrows = () =>
+  axios.get(`${GATEWAY}/gateway/library/api/borrow/all`)

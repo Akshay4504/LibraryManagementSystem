@@ -135,3 +135,4 @@ C:\Users\Administrator\Desktop\LibraryManagementProject\LibraryAPI\obj\Debug\net
 C:\Users\Administrator\Desktop\LibraryManagementProject\LibraryAPI\obj\Debug\net8.0\LibraryAPI.pdb
 C:\Users\Administrator\Desktop\LibraryManagementProject\LibraryAPI\obj\Debug\net8.0\LibraryAPI.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\LibraryManagementProject\LibraryAPI\obj\Debug\net8.0\ref\LibraryAPI.dll
+C:\Users\Administrator\Desktop\LibraryManagementProject\LibraryAPI\obj\Debug\net8.0\LibraryAPI.sourcelink.json
