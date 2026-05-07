@@ -82,6 +82,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+app.UseMiddleware<LibraryAPI.Middleware.ExceptionMiddleware>();
 
     app.UseSwagger();
     app.UseSwaggerUI();

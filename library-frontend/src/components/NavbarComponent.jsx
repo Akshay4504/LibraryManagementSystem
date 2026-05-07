@@ -24,20 +24,25 @@ function NavbarComponent() {
             <Link className="nav-link" to="/">Home</Link>
           </li>
           {token && (
-            <>
-              <li className="nav-item">
-                <Link className="nav-link" to="/libraries">Libraries</Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/books">Books</Link>
-              </li>
-              {role === 'Admin' && (
-                <li className="nav-item">
-                  <Link className="nav-link text-warning" to="/admin">Admin Panel</Link>
-                </li>
-              )}
-            </>
-          )}
+  <>
+    <li className="nav-item">
+      <Link className="nav-link" to="/libraries">Libraries</Link>
+    </li>
+    <li className="nav-item">
+      <Link className="nav-link" to="/books">Books</Link>
+    </li>
+    {role === 'User' && (
+      <li className="nav-item">
+        <Link className="nav-link" to="/my-borrows">My Borrows</Link>
+      </li>
+    )}
+    {role === 'Admin' && (
+      <li className="nav-item">
+        <Link className="nav-link text-warning" to="/admin">Admin Panel</Link>
+      </li>
+       )}
+      </>
+        )}
         </ul>
         <ul className="navbar-nav ms-auto">
           {token ? (

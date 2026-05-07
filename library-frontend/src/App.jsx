@@ -4,20 +4,24 @@ import HomeComponent from './components/HomeComponent'
 import LibraryComponent from './components/LibraryComponent'
 import BookComponent from './components/BookComponent'
 import AdminComponent from './components/AdminComponent'
+import BorrowComponent from './components/BorrowComponent'
 import LoginPage from './pages/LoginPage'
 import RegisterPage from './pages/RegisterPage'
 import ErrorComponent from './components/ErrorComponent'
 
-// Protect routes that need a token
 const PrivateRoute = ({ children }) => {
   const token = localStorage.getItem('token')
   return token ? children : <Navigate to="/login" />
 }
 
-// Protect admin-only routes
 const AdminRoute = ({ children }) => {
   const role = localStorage.getItem('role')
   return role === 'Admin' ? children : <Navigate to="/error" />
+}
+
+const UserRoute = ({ children }) => {
+  const role = localStorage.getItem('role')
+  return role === 'User' ? children : <Navigate to="/error" />
 }
 
 function App() {
@@ -34,6 +38,9 @@ function App() {
           } />
           <Route path="/books" element={
             <PrivateRoute><BookComponent /></PrivateRoute>
+          } />
+          <Route path="/my-borrows" element={
+            <UserRoute><BorrowComponent /></UserRoute>
           } />
           <Route path="/admin" element={
             <AdminRoute><AdminComponent /></AdminRoute>
