@@ -8,5 +8,7 @@ namespace LibraryAPI.Services
         Task<(bool Success, string Message)> ReturnBook(int borrowId, string userId);
         Task<List<BorrowedBook>> GetUserBorrowedBooks(string userId);
         Task<List<BorrowedBook>> GetAllBorrowedBooks();
+        Task<List<BorrowedBook>> GetAllOverdueBooks();
+        Task<bool> HasOverdueBooks(string userId);
     }
 }

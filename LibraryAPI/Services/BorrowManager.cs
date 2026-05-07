@@ -96,5 +96,24 @@ namespace LibraryAPI.Services
                 .ToListAsync();
         }
 
+        /// Returns all currently overdue (not returned, past due date) borrow records.
+        public async Task<List<BorrowedBook>> GetAllOverdueBooks()
+        {
+            var now = DateTime.UtcNow;
+            return await _context.BorrowedBooks
+                .Include(bb => bb.Book)
+                .ThenInclude(b => b!.Library)
+                .Where(bb => !bb.IsReturned && now > bb.DueDate)
+                .OrderBy(bb => bb.DueDate)
+                .ToListAsync();
+        }
+
+        /// Returns true if the given user has any unreturned overdue books.
+        public async Task<bool> HasOverdueBooks(string userId)
+        {
+            var now = DateTime.UtcNow;
+            return await _context.BorrowedBooks
+                .AnyAsync(bb => bb.UserId == userId && !bb.IsReturned && now > bb.DueDate);
+        }
     }
 }

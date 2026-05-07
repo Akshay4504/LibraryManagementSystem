@@ -30,5 +30,21 @@ namespace LibraryAPI.Models
         public DateTime? ReturnedDate { get; set; }
 
         public bool IsReturned { get; set; } = false;
+
+        /// Indicates if the book is currently overdue (not returned and past due date).
+        /// Not stored in DB — computed at runtime.
+
+        [NotMapped]
+        public bool IsOverdue => !IsReturned && DateTime.UtcNow > DueDate;
+
+        /// Days overdue. Returns 0 if not overdue or already returned.
+        /// Not stored in DB — computed at runtime.
+        [NotMapped]
+        public int DaysOverdue => IsOverdue ? (int)(DateTime.UtcNow - DueDate).TotalDays : 0;
+
+        /// Fine accrued at a rate of $0.50 per day overdue.
+        /// Not stored in DB — computed at runtime.
+        [NotMapped]
+        public decimal FineAmount => DaysOverdue * 0.50m;
     }
 }
